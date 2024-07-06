@@ -1,0 +1,118 @@
+.logopic{
+    display: flex;
+    width: 40%;
+}
+header{
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+    margin-left: 30px;
+    text-transform: uppercase;
+
+}
+.navbar{
+    display: flex;
+    list-style-type: none;
+    gap: 42px;
+    font-size: 19px;
+    
+}
+.wrapper{
+    display: flex;
+ 
+  
+}
+body{
+    font-family: "Poppins", sans-serif;
+}
+.active{
+    background-color: orangered;
+    padding: 10px 22px 7px 24px;
+    border-radius: 13px;
+    color: white;
+}
+.landing-section{
+    display: flex;
+    margin-top: 80px;
+    margin-left: 170px;
+    font-size: 30px;
+    
+}
+.topiconwrapper{
+    display: flex;
+    
+
+}
+.bannerimg{
+    width: 600px;
+    margin-left: 460px;
+}
+
+
+
+.content-wrapping{
+    display: flex;
+    justify-content: center;
+    border-radius: 2px;
+
+}
+.heading-wrapper{
+    font-size: 20px;
+    text-align: center;
+    margin-left: 60px;
+    justify-content: center;
+    align-items: center;
+}
+.content-wrapping{
+    display: flex;
+    font-size: 20px;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 45px;
+}
+.about-section{
+    background-image: url(about_bg.jpg);
+    display: flex;
+    text-align: center;
+    margin-top: 119px;
+}
+.about-content{
+    width: 49%;
+    margin-top: 151px;
+}
+.first-content{
+    background-color: #f0390f;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 355px;
+    padding-top: 35px;
+}
+.second-content{
+    background-color: blue;
+    text-align: center;
+    height: 355px;
+    padding-top: 35px;
+}
+.third-content{
+    background-color: #f0390f;
+    text-align: center;
+    height: 355px;
+    padding-top: 35px;
+}
+.text-wrapper{
+    display: flex;
+    text-transform: uppercase;
+    margin-top: 40px;
+}
+.text1{
+    margin-left: 270px;
+}
+.text2{
+    margin-left: 247px;
+}
+.text3{
+    margin-left: 251px;
+
+}
